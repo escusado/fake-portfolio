@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is a simple program that will render a 3D basic enviroment to be added to a personal portfolio as a decoration element.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escusado/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/escusado/portfolio/issues"
+  },
+  "homepage": "https://github.com/escusado/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
